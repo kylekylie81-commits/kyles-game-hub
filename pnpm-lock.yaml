@@ -49,64 +49,64 @@ importers:
         version: 3.3.2
     devDependencies:
       '@biomejs/biome':
-        specifier: 2.2.2
-        version: 2.2.2
+        specifier: 2.5.9
+        version: 2.5.9
 
 packages:
 
-  '@biomejs/biome@2.2.2':
-    resolution: {integrity: sha512-j1omAiQWCkhuLgwpMKisNKnsM6W8Xtt1l0WZmqY/dFj8QPNkIoTvk4tSsi40FaAAkBE1PU0AFG2RWFBWenAn+w==}
+  '@biomejs/biome@2.5.9':
+    resolution: {integrity: sha512-KkgCvdHB4IhtpHpF564plA9jo6fDOwWGQ/3jvreLzgOtRLEDoPqr7QO9qejNA8jKwDsSkAKr77hqBHnyUbIw4g==}
     engines: {node: '>=14.21.3'}
     hasBin: true
 
-  '@biomejs/cli-darwin-arm64@2.2.2':
-    resolution: {integrity: sha512-6ePfbCeCPryWu0CXlzsWNZgVz/kBEvHiPyNpmViSt6A2eoDf4kXs3YnwQPzGjy8oBgQulrHcLnJL0nkCh80mlQ==}
+  '@biomejs/cli-darwin-arm64@2.5.9':
+    resolution: {integrity: sha512-am22pX2aBqznqq1eMyIj/bZ++riF3Lk6ct7cbv+gQK0csFhr+d8O0RkOi2FF2qSgFgANbqNkIZ0/PxlnW2pLFg==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [darwin]
 
-  '@biomejs/cli-darwin-x64@2.2.2':
-    resolution: {integrity: sha512-Tn4JmVO+rXsbRslml7FvKaNrlgUeJot++FkvYIhl1OkslVCofAtS35MPlBMhXgKWF9RNr9cwHanrPTUUXcYGag==}
+  '@biomejs/cli-darwin-x64@2.5.9':
+    resolution: {integrity: sha512-l44KWDHLDvEnD0N/XcrVs7VXb3A18xL7QS3WB0eL93wbmk529ffIG55vleGCqaunpRUjLrdnjK05Qki1dsjylg==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [darwin]
 
-  '@biomejs/cli-linux-arm64-musl@2.2.2':
-    resolution: {integrity: sha512-/MhYg+Bd6renn6i1ylGFL5snYUn/Ct7zoGVKhxnro3bwekiZYE8Kl39BSb0MeuqM+72sThkQv4TnNubU9njQRw==}
+  '@biomejs/cli-linux-arm64-musl@2.5.9':
+    resolution: {integrity: sha512-7ImVPwBLCtkmpR5esd8RHhTqW94f0JLJQum6AneYcy94jRm18TaPPm7slaigGzFhfgt3QiD1Vj52LKmBAnKizA==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
     libc: [musl]
 
-  '@biomejs/cli-linux-arm64@2.2.2':
-    resolution: {integrity: sha512-JfrK3gdmWWTh2J5tq/rcWCOsImVyzUnOS2fkjhiYKCQ+v8PqM+du5cfB7G1kXas+7KQeKSWALv18iQqdtIMvzw==}
+  '@biomejs/cli-linux-arm64@2.5.9':
+    resolution: {integrity: sha512-ICaK+IYaVZvKbBxX2rwrPT0DdUDMnE9Vm3nQGe+mltQPmUg19pONzkPWGdY4FCsoreDETWDynvdt4ysCbF5gNQ==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
     libc: [glibc]
 
-  '@biomejs/cli-linux-x64-musl@2.2.2':
-    resolution: {integrity: sha512-ZCLXcZvjZKSiRY/cFANKg+z6Fhsf9MHOzj+NrDQcM+LbqYRT97LyCLWy2AS+W2vP+i89RyRM+kbGpUzbRTYWig==}
+  '@biomejs/cli-linux-x64-musl@2.5.9':
+    resolution: {integrity: sha512-RXGaD0o1/pTTguYw1aeDJh9ad6Lfrui0fI7mBderTyGr7WuUJkBIttgLkR3XJyoxOkkgfBDspaUT8wXArTqLZw==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
     libc: [musl]
 
-  '@biomejs/cli-linux-x64@2.2.2':
-    resolution: {integrity: sha512-Ogb+77edO5LEP/xbNicACOWVLt8mgC+E1wmpUakr+O4nKwLt9vXe74YNuT3T1dUBxC/SnrVmlzZFC7kQJEfquQ==}
+  '@biomejs/cli-linux-x64@2.5.9':
+    resolution: {integrity: sha512-z22Q/zFYSvbIJfW1CbfZPu4X8PddS6Qd2ORbc6h+aT6EcwAxUF3m6fA4HjNvA3TU4X0dTJRwNPB165ES3PJXzg==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
     libc: [glibc]
 
-  '@biomejs/cli-win32-arm64@2.2.2':
-    resolution: {integrity: sha512-wBe2wItayw1zvtXysmHJQoQqXlTzHSpQRyPpJKiNIR21HzH/CrZRDFic1C1jDdp+zAPtqhNExa0owKMbNwW9cQ==}
+  '@biomejs/cli-win32-arm64@2.5.9':
+    resolution: {integrity: sha512-nHK+/HHC+D0ogAHUxomgoSTdjImb6fmNNVTKmf0tyu4eDL1DqPKIHc+i+UL8+b0RnAu8224qo8F2tCVnaT0A3w==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [win32]
 
-  '@biomejs/cli-win32-x64@2.2.2':
-    resolution: {integrity: sha512-DAuHhHekGfiGb6lCcsT4UyxQmVwQiBCBUMwVra/dcOSs9q8OhfaZgey51MlekT3p8UwRqtXQfFuEJBhJNdLZwg==}
+  '@biomejs/cli-win32-x64@2.5.9':
+    resolution: {integrity: sha512-Yiq0H56LjXSSw/hd9YkXgSLQfzyDJzbzU2TezozxyNw+uKWAqOtqGVvBfzKRRDiaFF5avGAhHdWKx7LtDOShUw==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [win32]
@@ -281,6 +281,7 @@ packages:
 
   '@mercuryworkshop/scramjet@1.0.2':
     resolution: {integrity: sha512-65k+TXYlMAnqTrcTyVlXyG+CVymOSHMW4a8ofJtX6yHDKmWGHL4LVzls+ukoTqth6JyqOk7OoT3iQdufZMoE7g==}
+    deprecated: this version is incredibly outdated, please switch to a new build
 
   '@mercuryworkshop/wisp-js@0.4.1':
     resolution: {integrity: sha512-104LwiXiuhti/e32gmv0Da0u0yuLFDHX8JawCzleTPWJ5t5qTX4EYi4E7/ucbjBPN9wwVPWHE5g5yGqzl/NzQA==}
@@ -688,6 +689,7 @@ packages:
 
   uuid@9.0.1:
     resolution: {integrity: sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==}
+    deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
     hasBin: true
 
   vary@1.1.2:
@@ -724,39 +726,39 @@ packages:
 
 snapshots:
 
-  '@biomejs/biome@2.2.2':
+  '@biomejs/biome@2.5.9':
     optionalDependencies:
-      '@biomejs/cli-darwin-arm64': 2.2.2
-      '@biomejs/cli-darwin-x64': 2.2.2
-      '@biomejs/cli-linux-arm64': 2.2.2
-      '@biomejs/cli-linux-arm64-musl': 2.2.2
-      '@biomejs/cli-linux-x64': 2.2.2
-      '@biomejs/cli-linux-x64-musl': 2.2.2
-      '@biomejs/cli-win32-arm64': 2.2.2
-      '@biomejs/cli-win32-x64': 2.2.2
+      '@biomejs/cli-darwin-arm64': 2.5.9
+      '@biomejs/cli-darwin-x64': 2.5.9
+      '@biomejs/cli-linux-arm64': 2.5.9
+      '@biomejs/cli-linux-arm64-musl': 2.5.9
+      '@biomejs/cli-linux-x64': 2.5.9
+      '@biomejs/cli-linux-x64-musl': 2.5.9
+      '@biomejs/cli-win32-arm64': 2.5.9
+      '@biomejs/cli-win32-x64': 2.5.9
 
-  '@biomejs/cli-darwin-arm64@2.2.2':
+  '@biomejs/cli-darwin-arm64@2.5.9':
     optional: true
 
-  '@biomejs/cli-darwin-x64@2.2.2':
+  '@biomejs/cli-darwin-x64@2.5.9':
     optional: true
 
-  '@biomejs/cli-linux-arm64-musl@2.2.2':
+  '@biomejs/cli-linux-arm64-musl@2.5.9':
     optional: true
 
-  '@biomejs/cli-linux-arm64@2.2.2':
+  '@biomejs/cli-linux-arm64@2.5.9':
     optional: true
 
-  '@biomejs/cli-linux-x64-musl@2.2.2':
+  '@biomejs/cli-linux-x64-musl@2.5.9':
     optional: true
 
-  '@biomejs/cli-linux-x64@2.2.2':
+  '@biomejs/cli-linux-x64@2.5.9':
     optional: true
 
-  '@biomejs/cli-win32-arm64@2.2.2':
+  '@biomejs/cli-win32-arm64@2.5.9':
     optional: true
 
-  '@biomejs/cli-win32-x64@2.2.2':
+  '@biomejs/cli-win32-x64@2.5.9':
     optional: true
 
   '@esbuild/aix-ppc64@0.28.0':
