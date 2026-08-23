@@ -1,0 +1,8 @@
+{
+  "name": "kyles-game-hub",
+  "description": "kyles-game-hub",
+  "repository": "https://github.com/yourusername/kyles-game-hub",
+  "logo": "https://avatars.githubusercontent.com/u/103917385",
+  "keywords": ["games", "proxy", "hub"],
+  "image": "heroku/nodejs"
+}

@@ -1,0 +1,37 @@
+# Security Policy
+
+## Supported Versions
+
+Only current versions of the site are being updated, if you are using an older version of the site, consider upgrading to the latest version.
+
+| Version | Supported |
+| ------- | --------- |
+| V5.2.x  | ✔️        |
+| V5.1.x  | :x:       |
+| V5.0.x  | :x:       |
+| V4.x.x  | :x:       |
+| < V4.0  | :x:       |
+
+## Reporting a Vulnerability
+
+If you are running your own fork of kyles-game-hub, please report issues through your own maintainer channels or the repository where you forked it.
+
+If you are using a forked local build, safe updates should be handled by pulling the latest changes from your own repository.
+
+### Upgrading to the Latest Version
+
+If you are using an older version of the site, we strongly recommend upgrading to the latest version to ensure that you benefit from the latest security updates and enhancements. Only the current versions of the site receive regular updates and support.
+
+### How to Update
+
+If you have a fork of the repository:
+Then [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
+
+If you have kyles-game-hub installed locally:
+Run `git pull`, and `npm i`.
+
+By keeping your site up to date, you not only enjoy the latest features but also enhance the security of your experience.
+
+If you encounter any challenges while updating, feel free to reach out to the kyles-game-hub maintainer or join the community Discord: https://discord.gg/y3h7emSMux.
+
+Thank you for prioritizing the security and performance of your experience with our site.
