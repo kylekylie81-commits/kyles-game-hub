@@ -3,7 +3,7 @@ window.KGHB.config = {
   brandName: "kyles-game-hub",
   siteTitle: "kyles-game-hub",
   discordLink: "https://discord.gg/y3h7emSMux",
-  adSenseClient: "ca-pub-YOUR_PUBLISHER_ID",
+  adSenseClient: "ca-pub-5063734967359490",
   adPopupUrl: "https://your-site.com",
   logoPath: "/assets/media/favicon/main.png",
   logoPathInverted: "/assets/media/favicon/main-inverted.png",

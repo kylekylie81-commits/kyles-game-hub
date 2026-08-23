@@ -115,6 +115,9 @@ const transportStaticOptions = {
 };
 
 app.use(express.static(path.join(__dirname, "static")));
+app.get("/ads.txt", (_req, res) => {
+  res.sendFile(path.join(__dirname, "ads.txt"));
+});
 app.use("/ca", cors({ origin: true }));
 app.use("/bm", express.static(baremuxPath, transportStaticOptions));
 app.use("/ep", express.static(epoxyDistPath, transportStaticOptions));
