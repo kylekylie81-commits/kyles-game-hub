@@ -4,7 +4,7 @@ window.KGHB.config = {
   siteTitle: "kyles-game-hub",
   discordLink: "https://discord.gg/y3h7emSMux",
   adSenseClient: "ca-pub-5063734967359490",
-  adPopupUrl: "https://your-site.com",
+  adPopupUrl: "https://kyles-game-hub-six.vercel.app/",
   logoPath: "/assets/media/favicon/main.png",
   logoPathInverted: "/assets/media/favicon/main-inverted.png",
   faviconPath: "/assets/media/favicon/main.png",
@@ -12,7 +12,7 @@ window.KGHB.config = {
 
 window.KGHB.loadAdSense = function () {
   const clientId = window.KGHB.config.adSenseClient;
-  if (!clientId || clientId === "ca-pub-YOUR_PUBLISHER_ID") {
+  if (!clientId || clientId === "ca-pub-5063734967359490") {
     return;
   }
 

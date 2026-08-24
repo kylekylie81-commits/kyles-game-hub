@@ -14,7 +14,7 @@ try {
 document.addEventListener("DOMContentLoaded", () => {
   const adPopupUrl = window.KGHB && window.KGHB.config ? window.KGHB.config.adPopupUrl : "";
 
-  if (adPopupUrl && adPopupUrl !== "https://your-site.com") {
+  if (adPopupUrl && adPopupUrl !== "https://kyles-game-hub-six.vercel.app/") {
     const script = document.createElement("script");
     script.type = "text/javascript";
     script.textContent = `(()=>{const k="kg-hb-popup",d=15e4,s=()=>{let t=localStorage.getItem(k);return !t||Date.now()-t>d},m=()=>localStorage.setItem(k,Date.now());function h(){if(!s())return;window.open(${JSON.stringify(adPopupUrl)},"_blank");m();document.removeEventListener("click",h)}s()&&document.addEventListener("click",h,{once:1})})();`;
