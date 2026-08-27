@@ -1,7 +1,7 @@
 window.KGHB = window.KGHB || {};
 window.KGHB.config = {
-  brandName: "kyles-game-hub",
-  siteTitle: "kyles-game-hub",
+  brandName: "kyles-learning-lab",
+  siteTitle: "kyles-learning-lab",
   discordLink: "https://discord.gg/y3h7emSMux",
   adSenseClient: "ca-pub-5063734967359490",
   adPopupUrl: "https://kyles-game-hub-six.vercel.app/",

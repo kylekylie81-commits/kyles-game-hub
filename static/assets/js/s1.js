@@ -415,12 +415,12 @@ function importSaveData() {
           Object.entries(data.localStorage).forEach(([key, value]) => {
             localStorage.setItem(key, value);
           });
-          if (typeof window.resolveProxyPchoice === "function") {
-            window.resolveProxyPchoice();
+          if (typeof window.resolveGatewayChoice === "function") {
+            window.resolveGatewayChoice();
           }
         }
         alert("Your save data has been imported. Please test it out.");
-        alert("If you find any issues, report them in your fork or share them with the kyles-game-hub maintainer.");
+        alert("If you find any issues, report them in your fork or share them with the kyles-learning-lab maintainer.");
       } catch (error) {
         console.error("Error parsing JSON file:", error);
       }

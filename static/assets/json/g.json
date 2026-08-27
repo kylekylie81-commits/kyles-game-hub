@@ -6,13 +6,13 @@
     "custom": "true"
   },
   {
-    "name": "! kyles-game-hub Support",
+    "name": "! kyles-simulation-hub Support",
     "image": "/assets/media/icons/help_center_googlefonts.png",
     "link": "https://discord.gg/y3h7emSMux",
     "categories": ["all"]
   },
   {
-    "name": "! [NEW] Request A Game",
+    "name": "! [NEW] Request A Simulation",
     "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
     "image": "/assets/media/icons/request.webp",
     "categories": ["all"]
@@ -53,7 +53,7 @@
     "link": "https://steampowered.com/",
     "image": "/assets/media/icons/steam.webp",
     "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
+    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually engage any simulations unless you use Geforce Now.",
     "partial": true
   },
   {
@@ -117,9 +117,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Lostgamer",
+    "name": "Lostsimulationr",
     "link": "https://lostgamer.io",
-    "image": "/assets/media/icons/lostgamerio.webp",
+    "image": "/assets/media/icons/lostsimulationrio.webp",
     "categories": ["all", "2P"]
   },
   {
@@ -159,9 +159,9 @@
     "categories": ["all", "2P"]
   },
   {
-    "name": "Wings!",
+    "name": "Objective Metgs!",
     "link": "https://wings.io/",
-    "image": "/assets/media/icons/wingsio.webp",
+    "image": "/assets/media/icons/objective metgsio.webp",
     "categories": ["all", "2P"]
   },
   {
@@ -255,9 +255,9 @@
     "categories": ["all", "2P"]
   },
   {
-    "name": "Addicting Games",
+    "name": "Addicting Simulations",
     "link": "https://www.addictinggames.com/",
-    "image": "/assets/media/icons/addictinggames.webp",
+    "image": "/assets/media/icons/addictingsimulations.webp",
     "categories": ["all"]
   },
   {
@@ -356,7 +356,7 @@
     "image": "/assets/media/icons/nealfun.webp",
     "categories": ["all"],
     "error": "true",
-    "say": "Neal.fun does not work on kyles-game-hub because of Cloudflare protection."
+    "say": "Neal.fun does not work on kyles-simulation-hub because of Cloudflare protection."
   },
   {
     "name": "YoHoHo.io",
@@ -389,9 +389,9 @@
     "categories": ["all"]
   },
   {
-    "name": "There Is No Game",
+    "name": "There Is No Simulation",
     "link": "https://5dd2d607-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/38959ae1-110b-49ab-86ae-df425fd7862a/index.html",
-    "image": "/assets/media/icons/thereisnogame.webp",
+    "image": "/assets/media/icons/thereisnosimulation.webp",
     "categories": ["all"]
   },
   {
@@ -443,9 +443,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Papa's Wingeria",
+    "name": "Papa's Objective Metgeria",
     "link": "https://www.coolmathgames.com/0-papas-wingeria/play",
-    "image": "/assets/media/icons/papaswingeria.webp",
+    "image": "/assets/media/icons/papasobjective metgeria.webp",
     "categories": ["all"]
   },
   {
@@ -582,13 +582,13 @@
     "categories": ["all,", "2P"]
   },
   {
-    "name": "Bullet Force Multiplayer",
+    "name": "Bullet Force Multiparticipant",
     "link": "https://www.crazygames.com/game/bullet-force-multiplayer",
     "image": "/assets/media/icons/BFM.webp",
     "categories": ["all,", "2P"]
   },
   {
-    "name": "Crazy Games",
+    "name": "Crazy Simulations",
     "link": "https://www.crazygames.com/",
     "image": "/assets/media/icons/crazy.webp",
     "categories": ["all,", "emu,", "2P,", "sports,", "flash"]
@@ -666,7 +666,7 @@
     "categories": ["all,", "emu"]
   },
   {
-    "name": "Playstation 2 Emulator",
+    "name": "Engagestation 2 Emulator",
     "link": "https://playjs.purei.org/",
     "image": "/assets/media/icons/PS2.webp",
     "categories": ["all,", "emu"]
@@ -732,7 +732,7 @@
     "categories": ["all"]
   },
   {
-    "name": "3D Dino Game",
+    "name": "3D Dino Simulation",
     "link": "https://lagged.com/api/play2/t-rex-3d2/",
     "image": "/assets/media/icons/trex-run-3D.webp",
     "categories": ["all"]
@@ -1014,7 +1014,7 @@
     "categories": ["all"]
   },
   {
-    "name": "GBA Games 2",
+    "name": "GBA Simulations 2",
     "link": "https://cattn.github.io/gba/",
     "image": "/assets/media/icons/gba.webp",
     "categories": ["all"]
@@ -1152,9 +1152,9 @@
     "categories": ["all"]
   },
   {
-    "name": "MX3M: Winter",
+    "name": "MX3M: Objective Metter",
     "link": "https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s017q3e/moto-x3m-4-winter.xml",
-    "image": "/assets/media/icons/mx3m-winter.webp",
+    "image": "/assets/media/icons/mx3m-objective metter.webp",
     "categories": ["all"]
   },
   {
@@ -1176,7 +1176,7 @@
     "categories": ["all"]
   },
   {
-    "name": "Online Racing Game!",
+    "name": "Online Racing Simulation!",
     "link": "https://jchabin.github.io/cars/",
     "image": "/assets/media/icons/OR.webp",
     "categories": ["all"]
@@ -1290,9 +1290,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Madalin Stunt Cars Multiplayer",
+    "name": "Madalin Stunt Cars Multiparticipant",
     "link": "https://games.crazygames.com/en_US/madalin-cars-multiplayer/index.html",
-    "image": "/assets/media/icons/madalinmultiplayer.webp",
+    "image": "/assets/media/icons/madalinmultiparticipant.webp",
     "categories": ["all", "2P"]
   },
   {
@@ -1496,7 +1496,7 @@
   {
     "name": "The Simpsons",
     "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/11/the-simpsons-game.zip",
-    "image": "/assets/media/icons/the-simpsons-game.webp",
+    "image": "/assets/media/icons/the-simpsons-simulation.webp",
     "categories": ["all"]
   },
   {
@@ -1530,7 +1530,7 @@
     "categories": ["all,", "2P"]
   },
   {
-    "name": "GBA Games",
+    "name": "GBA Simulations",
     "link": "https://real-sgs.vercel.app/Tools/GBA-Emulator",
     "image": "/assets/media/icons/gba.webp",
     "categories": ["all"]
@@ -1584,9 +1584,9 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Melon Playground",
+    "name": "Melon Engageground",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.studio27.MelonPlayground&partner=interstellar",
-    "image": "/assets/media/icons/melonplayground.webp",
+    "image": "/assets/media/icons/melonengageground.webp",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -1812,9 +1812,9 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Windows 96",
+    "name": "Objective Metdows 96",
     "link": "https://windows96.net",
-    "image": "/assets/media/icons/windows96.webp",
+    "image": "/assets/media/icons/objective metdows96.webp",
     "categories": ["all"]
   },
   {
@@ -1848,16 +1848,16 @@
     "categories": ["all"]
   },
   {
-    "name": "Two Player Games",
+    "name": "Two Participant Simulations",
     "link": "https://www.twoplayergames.org/",
     "image": "/assets/media/icons/tpg.webp",
     "categories": ["all"]
   },
   {
-    "name": "Five Nights at Winston's",
+    "name": "Five Nights at Objective Metston's",
     "link": "https://g.deev.is/fnaw/",
     "image": "/assets/media/icons/fnaw.webp",
-    "categories": ["all", "game"]
+    "categories": ["all", "simulation"]
   },
   {
     "name": "Goomy Clicker 2",

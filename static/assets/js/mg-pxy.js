@@ -30,6 +30,6 @@
     return "sj";
   }
 
-  window.resolveProxyPchoice = migrate;
+  window.resolveGatewayChoice = migrate;
   migrate();
 })();

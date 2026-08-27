@@ -1,18 +1,18 @@
 <div align="center">
-    <p>kyles-game-hub</p>
-    <p>A custom local game and browsing hub.</p>
+    <p>kyles-learning-lab</p>
+    <p>A custom local simulation and research hub.</p>
 </div>
 
 > [!IMPORTANT]
-> This is a fork customized for local use under the name kyles-game-hub.
+> This is a fork customized for local use under the name kyles-learning-lab.
 
-**Open the app locally and enjoy your own branded version of the hub.**
+**Open the application locally and use your own branded version of the hub.**
 
 ## Features
 
 - About:Blank Cloaking
 - Tab Cloaking
-- Wide collection of apps & games
+- Wide collection of apps & simulations
 - Clean, Easy to use UI
 - Inspect Element
 - Various Themes
@@ -40,8 +40,8 @@
 Clone your fork and run it locally or on your server:
 
 ```bash
-git clone https://github.com/yourusername/kyles-game-hub
-cd kyles-game-hub
+git clone https://github.com/yourusername/kyles-learning-lab
+cd kyles-learning-lab
 ```
 
 Next depending on your package manager, run one of the following commands:
@@ -76,7 +76,7 @@ npm run start
 ### Updating
 
 ```bash
-cd kyles-game-hub
+cd kyles-learning-lab
 git pull --force --allow-unrelated-histories # This may overwrite your local changes
 ```
 
@@ -99,7 +99,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 3. In the terminal at the bottom, paste `pnpm i && pnpm start`.
 4. Respond to the application popup by clicking "Make public."
 > [!IMPORTANT]
-> Make sure you click the "Make public." button, or the proxy won't function properly.<br>
+> Make sure you click the "Make public." button, or the network gateway won't function properly.<br>
 > If you get a Range Error, go back and make sure you clicked Make public!
 5. Access the deployed website from the ports tab.
 6. For subsequent uses in the same codespace, just run `pnpm start`
@@ -123,4 +123,4 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 
 # Credits
 
-Thanks for using kyles-game-hub.
+Thanks for using kyles-learning-lab.

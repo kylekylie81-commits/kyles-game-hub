@@ -6,7 +6,7 @@
     "custom": "true"
   },
   {
-    "name": "! kyles-game-hub Support",
+    "name": "! kyles-simulation-hub Support",
     "image": "/assets/media/icons/help_center_googlefonts.png",
     "link": "https://discord.gg/y3h7emSMux",
     "categories": ["all"]
@@ -28,7 +28,7 @@
     "link": "https://store.steampowered.com/",
     "image": "/assets/media/icons/steam.webp",
     "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
+    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually engage any simulations unless you use Geforce Now.",
     "partial": true
   },
   {
@@ -71,19 +71,19 @@
     "name": "Scratch",
     "link": "https://scratch.mit.edu",
     "image": "/assets/media/icons/scratch.webp",
-    "categories": ["all", "social", "game"]
+    "categories": ["all", "social", "simulation"]
   },
   {
     "name": "Chess.com",
     "link": "https://www.chess.com/",
     "image": "/assets/media/icons/chess.webp",
-    "categories": ["all", "game"]
+    "categories": ["all", "simulation"]
   },
   {
-    "name": "Cool Math Games",
+    "name": "Cool Math Simulations",
     "link": "https://www.coolmathgames.com/",
     "image": "/assets/media/icons/coolmath.webp",
-    "categories": ["all", "game"]
+    "categories": ["all", "simulation"]
   },
   {
     "name": "Discord",
@@ -185,7 +185,7 @@
     "name": "Poki",
     "link": "https://poki.com",
     "image": "/assets/media/icons/poki.webp",
-    "categories": ["all", "game"]
+    "categories": ["all", "simulation"]
   },
   {
     "name": "Premier League",
@@ -248,7 +248,7 @@
     "categories": ["all"]
   },
   {
-    "name": "Gidd.io Games",
+    "name": "Gidd.io Simulations",
     "link": "https://gidd.io",
     "image": "/assets/media/icons/gidd.webp",
     "categories": ["all"]
@@ -278,10 +278,10 @@
     "categories": ["all", "tool"]
   },
   {
-    "name": "Y8 Games",
+    "name": "Y8 Simulations",
     "link": "https://y8.com/",
     "image": "/assets/media/icons/y8.webp",
-    "categories": ["all", "game"]
+    "categories": ["all", "simulation"]
   },
   {
     "name": "YouTube",
@@ -344,7 +344,7 @@
     "name": "Amazon Luna",
     "link": "https://luna.amazon.com/",
     "image": "/assets/media/icons/amazon-luna.webp",
-    "categories": ["all", "game", "cloud"],
+    "categories": ["all", "simulation", "cloud"],
     "blank": "true"
   },
   {
@@ -385,7 +385,7 @@
     "name": "Newgrounds",
     "link": "https://www.newgrounds.com",
     "image": "/assets/media/icons/newgrounds.webp",
-    "categories": ["all", "social", "game"]
+    "categories": ["all", "social", "simulation"]
   },
   {
     "name": "Instagram",
@@ -431,7 +431,7 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "GBA Games",
+    "name": "GBA Simulations",
     "link": "https://gba.js.org/",
     "image": "/assets/media/icons/gba.png",
     "categories": ["all", "emu"]

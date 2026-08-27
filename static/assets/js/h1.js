@@ -167,16 +167,16 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Welcome to kyles-game-hub",
-  "Fast, simple, and ready to play",
-  "Built for local gaming and browsing",
+  "Welcome to kyles-learning-lab",
+  "Fast, simple, and ready to engage",
+  "Built for local computational experiments and browsing",
   "Open the settings page to customize your experience",
-  "Thanks for using kyles-game-hub",
-  "Your favorite games are just a click away",
-  "Explore, launch, and keep playing",
+  "Thanks for using kyles-learning-lab",
+  "Your favorite simulations are just a click away",
+  "Explore, launch, and keep engaging",
   "Made for smooth offline-friendly access",
   "Check out the settings page",
-  "kyles-game-hub is running locally",
+  "kyles-learning-lab is running locally",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);

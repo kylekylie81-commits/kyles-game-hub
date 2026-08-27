@@ -31,13 +31,13 @@ if (form && input) {
     }
   });
 }
-function useScramjetPxy() {
+function useScramjetRelay() {
   const p = localStorage.getItem("pchoice");
   return p === "sj";
 }
 
-async function getPxyUrl(url) {
-  if (useScramjetPxy()) {
+async function getRelayUrl(url) {
+  if (useScramjetRelay()) {
     if (window.__isSjReady) {
       await window.__isSjReady;
     }
@@ -60,8 +60,8 @@ async function processUrl(value, path) {
     url = `https://${url}`;
   }
 
-  const pxyUrl = await getPxyUrl(url);
-  sessionStorage.setItem("GoUrl", pxyUrl);
+  const relayUrl = await getRelayUrl(url);
+  sessionStorage.setItem("GoUrl", relayUrl);
   const pchoice = localStorage.getItem("pchoice");
 
   if (pchoice === "dy") {
@@ -69,7 +69,7 @@ async function processUrl(value, path) {
   } else if (path) {
     location.href = path;
   } else {
-    window.location.href = pxyUrl;
+    window.location.href = relayUrl;
   }
 }
 

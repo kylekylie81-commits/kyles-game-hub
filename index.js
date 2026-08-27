@@ -125,7 +125,7 @@ app.use("/ep", express.static(epoxyDistPath, transportStaticOptions));
 const routes = [
   { path: "/b", file: "apps.html" },
   { path: "/a", file: "games.html" },
-  { path: "/play.html", file: "games.html" },
+  { path: "/simulate.html", file: "games.html" },
   { path: "/c", file: "settings.html" },
   { path: "/d", file: "tabs.html" },
   { path: "/", file: "index.html" },

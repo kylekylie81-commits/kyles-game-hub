@@ -1,8 +1,8 @@
 {
-  "name": "kyles-game-hub",
-  "description": "kyles-game-hub",
+  "name": "kyles-learning-lab",
+  "description": "kyles-learning-lab",
   "repository": "https://github.com/yourusername/kyles-game-hub",
   "logo": "https://avatars.githubusercontent.com/u/103917385",
-  "keywords": ["games", "proxy", "hub"],
+  "keywords": ["simulations", "network-gateway", "hub"],
   "image": "heroku/nodejs"
 }

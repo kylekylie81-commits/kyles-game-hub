@@ -1,16 +1,16 @@
 ---
-name: Game Request
-about: Suggest a game you would like to be added to the site.
-title: "[Game]"
-labels: Game Request
+name: Simulation Request
+about: Suggest an educational simulation you would like to be added to the site.
+title: "[Simulation]"
+labels: Simulation Request
 assignees: xbubbo
 ---
 
-**What is the name of the game?**
-Provide the name of the game.
+**What is the name of the simulation?**
+Provide the name of the simulation.
 
-**What is the link to the game?**
-Include the direct link to the game, ensuring it is a specific URL (Ex. crazygames.com/Game, coolmathgames.com/Game). Please refrain from providing Google Search links to prevent post closure.
+**What is the link to the simulation?**
+Include the direct link to the simulation, ensuring it is a specific URL. Please refrain from providing Google Search links to prevent post closure.
 
-**What is the category of the game? [Optional]**
-Specify the category of the game, such as Multiplayer, Emulator, FPS, Sports, or any relevant classification. This information is optional but can help us accurately add categories to filter the game.
+**What is the category of the simulation? [Optional]**
+Specify the category of the simulation, such as Collaborative, Emulator, Computational, Sports, or another relevant classification. This information is optional but can help us accurately add categories for filtering.

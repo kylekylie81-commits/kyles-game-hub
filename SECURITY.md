@@ -14,7 +14,7 @@ Only current versions of the site are being updated, if you are using an older v
 
 ## Reporting a Vulnerability
 
-If you are running your own fork of kyles-game-hub, please report issues through your own maintainer channels or the repository where you forked it.
+If you are running your own fork of kyles-learning-lab, please report issues through your own maintainer channels or the repository where you forked it.
 
 If you are using a forked local build, safe updates should be handled by pulling the latest changes from your own repository.
 
@@ -27,7 +27,7 @@ If you are using an older version of the site, we strongly recommend upgrading t
 If you have a fork of the repository:
 Then [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
 
-If you have kyles-game-hub installed locally:
+If you have kyles-learning-lab installed locally:
 Run `git pull`, and `npm i`.
 
 By keeping your site up to date, you not only enjoy the latest features but also enhance the security of your experience.
