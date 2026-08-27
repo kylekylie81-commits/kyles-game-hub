@@ -18,19 +18,24 @@ self.addEventListener("fetch", event => {
     (async () => {
       await sj.loadConfig();
 
+      let response;
+
       if (await sj.route(event)) {
-        return await sj.fetch(event);
+        response = await sj.fetch(event);
+      } else if (await dynamic.route(event)) {
+        response = await dynamic.fetch(event);
+      } else if (event.request.url.startsWith(`${location.origin}/a/`)) {
+        response = await uv.fetch(event);
+      } else {
+        response = await fetch(event.request);
       }
 
-      if (await dynamic.route(event)) {
-        return await dynamic.fetch(event);
+      // FIX: Check if the response is cached/empty and pass it straight back to avoid RangeError
+      if (response && (response.status === 304 || response.status === 0)) {
+          return response;
       }
 
-      if (event.request.url.startsWith(`${location.origin}/a/`)) {
-        return await uv.fetch(event);
-      }
-
-      return await fetch(event.request);
+      return response;
     })(),
   );
 });
